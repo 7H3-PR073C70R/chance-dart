@@ -4,7 +4,7 @@ import '../../core.dart';
 
 /// It takes a random address, gets the coordinates, and then uses the GeoHasher library to encode those
 /// coordinates into a geohash
-/// 
+///
 /// Returns:
 ///   A string
 String geohash() {
